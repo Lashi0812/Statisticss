@@ -1,0 +1,85 @@
+Variable,Type,Segment,Expectation,Conclusion,Comments
+Id,,,,,index of the table
+MSSubClass,C,B,M,,"identify the type of house involve in the sale
+"
+MSZoning,C,L,M,,ZOne Classification of building
+LotFrontage,N,S,M,,"Linear feet Connecting to the property
+Distance between the house main door to the street
+"
+LotArea,N,S,M,,
+Street,C,L,L,,Type of road access to the property
+Alley,C,l,l,,Type of access to property via backdoor
+LotShape,C,S,l,,Shape of the LOT
+LandContour,C,L,l,,Flatness of the property
+Utilities,C,L,l,,Type of Utilities
+LotConfig,C,S,L,,LOt Configuration
+LandSlope,C,L,L,,Slope of land
+Neighborhood,C,L,M,,Physical Location with the city
+Condition1,C,L,M,,Proximity
+Condition2,C,L,M,,Proximity
+BldgType,C,B,M,,type of the Building
+HouseStyle,C,b,m,,style of building
+OverallQual,C,B,H,,Rating of the Building material
+OverallCond,C,B,H,,Rating of building Condition
+YearBuilt,N,B,M,,Year built
+YearRemodAdd,N,B,M,,Modified year of house
+RoofStyle,C,B,L,,Roof style
+RoofMatl,,,,,
+Exterior1st,,,,,
+Exterior2nd,,,,,
+MasVnrType,,,,,
+MasVnrArea,,,,,
+ExterQual,,,,,
+ExterCond,,,,,
+Foundation,,,,,
+BsmtQual,,,,,
+BsmtCond,,,,,
+BsmtExposure,,,,,
+BsmtFinType1,,,,,
+BsmtFinSF1,,,,,
+BsmtFinType2,,,,,
+BsmtFinSF2,,,,,
+BsmtUnfSF,,,,,
+TotalBsmtSF,,,,,
+Heating,,,,,
+HeatingQC,,,,,
+CentralAir,,,,,
+Electrical,,,,,
+1stFlrSF,,,,,
+2ndFlrSF,,,,,
+LowQualFinSF,,,,,
+GrLivArea,,,,,
+BsmtFullBath,,,,,
+BsmtHalfBath,,,,,
+FullBath,,,,,
+HalfBath,,,,,
+BedroomAbvGr,,,,,
+KitchenAbvGr,,,,,
+KitchenQual,,,,,
+TotRmsAbvGrd,,,,,
+Functional,,,,,
+Fireplaces,,,,,
+FireplaceQu,,,,,
+GarageType,,,,,
+GarageYrBlt,,,,,
+GarageFinish,,,,,
+GarageCars,,,,,
+GarageArea,,,,,
+GarageQual,,,,,
+GarageCond,,,,,
+PavedDrive,,,,,
+WoodDeckSF,,,,,
+OpenPorchSF,,,,,
+EnclosedPorch,,,,,
+3SsnPorch,,,,,
+ScreenPorch,,,,,
+PoolArea,,,,,
+PoolQC,,,,,
+Fence,,,,,
+MiscFeature,,,,,
+MiscVal,,,,,
+MoSold,,,,,
+YrSold,,,,,
+SaleType,,,,,
+SaleCondition,,,,,
+SalePrice,,,,,
